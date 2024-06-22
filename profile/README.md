@@ -1,5 +1,6 @@
-
-<img width="300" alt="진도진도도" src="https://github.com/dojindo/.github/assets/68311264/a23fd3fd-f89c-4c1a-99a6-dac1e1b900ac">
+<p align="middle" >
+  <img width="300" alt="진도진도도" src="https://github.com/dojindo/.github/assets/68311264/a23fd3fd-f89c-4c1a-99a6-dac1e1b900ac">
+</p>
 
 # 도진의 목표
 - [VSFe](https://github.com/VSFe)님의 [취뽀컴트루](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/readme.md?plain=1) 과제 수행하기
