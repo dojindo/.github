@@ -3,7 +3,7 @@
 </p>
 
 # 도진의 목표
-- [VSFe](https://github.com/VSFe)님의 [취뽀컴트루](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/readme.md?plain=1) 과제 수행하기
+- [VSFe](https://github.com/VSFe)님의 [취뽀컴트루](https://github.com/C4-ComeTrue/c4-cometrue-assignment) 과제 수행하기
 
 | 과제 이름 | 한 줄 설명 | 링크 |
 | -- | -- | -- |
