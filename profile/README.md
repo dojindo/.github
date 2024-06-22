@@ -7,10 +7,10 @@
 
 | 과제 이름 | 한 줄 설명 | 링크 |
 | -- | -- | -- |
-| My-Storage | 간단한 형태의 클라우드 스토리지를 만들어 봅시다. | [링크](assignments/my-storage.md) |
-| Mini-Pay | 기본 송금과 정산 기능이 있는 페이 서비스를 만들어 봅시다. | [링크](assignments/mini-pay.md) |
-| Accelerated To-Do | iCal 형식에 맞춘 일정을 제공하는 To-Do 서버를 개발해 봅시다. | [링크](assignments/accelerated-to-do.md) |
-| Opener-Market | 구매자와 판매자 기능이 있는 오픈마켓 서비스를 개발해 봅시다. | [링크](assignments/opener-market.md) |
+| My-Storage | 간단한 형태의 클라우드 스토리지를 만들어 봅시다. | [링크]([assignments/my-storage.md](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/assignments/my-storage.md)) |
+| Mini-Pay | 기본 송금과 정산 기능이 있는 페이 서비스를 만들어 봅시다. | [링크]([assignments/mini-pay.md](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/assignments/mini-pay.md)) |
+| Accelerated To-Do | iCal 형식에 맞춘 일정을 제공하는 To-Do 서버를 개발해 봅시다. | [링크]([assignments/accelerated-to-do.md](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/assignments/accelerated-to-do.md)) |
+| Opener-Market | 구매자와 판매자 기능이 있는 오픈마켓 서비스를 개발해 봅시다. | [링크]([assignments/opener-market.md](https://github.com/C4-ComeTrue/c4-cometrue-assignment/blob/main/assignments/opener-market.md)) |
 
 <!--
 
